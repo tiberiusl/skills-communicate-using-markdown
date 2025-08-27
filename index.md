@@ -10,3 +10,7 @@
 ``` Java
 String summonDialogue = "CURSE YOU, BAYLE!";
 ```
+
+- [x] CURSE YOU, BAYLE!
+- [ ] I HEREBY VOW, YOU WILL RUE THIS DAY!
+- [ ] BEHOLD, A TRUE DRAKE WARRIOR!
